@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{423C181F-E3BB-42AB-907E-20FC8372F4CA}|Task_10\\Task_10.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C181F-E3BB-42AB-907E-20FC8372F4CA}|Task_10\\Task_10.csproj|solutionrelative:task_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E5B12C-06BA-483C-A411-708E895F5792}|Task_9\\Task_9.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E5B12C-06BA-483C-A411-708E895F5792}|Task_9\\Task_9.csproj|solutionrelative:task_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB75101-1778-48C9-BE96-D37614E2C29E}|Task_7\\Task_7.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB75101-1778-48C9-BE96-D37614E2C29E}|Task_7\\Task_7.csproj|solutionrelative:task_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBFD0B7-3E8C-4C5E-81A3-2D75F6874811}|Task_8\\Task_8.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBFD0B7-3E8C-4C5E-81A3-2D75F6874811}|Task_8\\Task_8.csproj|solutionrelative:task_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C903CAD-02E5-463E-83FA-D8F6A1C03E31}|Task_6\\Task_6.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C903CAD-02E5-463E-83FA-D8F6A1C03E31}|Task_6\\Task_6.csproj|solutionrelative:task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC067FF-6CB7-47A6-80E5-5153CE9F4C6C}|Task_5\\Task_5.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC067FF-6CB7-47A6-80E5-5153CE9F4C6C}|Task_5\\Task_5.csproj|solutionrelative:task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB21624E-22BF-414C-8FCB-7536EEFE2B5A}|Task_4\\Task_4.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB21624E-22BF-414C-8FCB-7536EEFE2B5A}|Task_4\\Task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E78096-AC81-4B55-848A-2CF0C00C16E0}|Task_3\\Task_3.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E78096-AC81-4B55-848A-2CF0C00C16E0}|Task_3\\Task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348F45C1-8DD1-474D-9860-1978D24485A2}|Task_2\\Task_2.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348F45C1-8DD1-474D-9860-1978D24485A2}|Task_2\\Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDE8D45-B534-49EB-83F3-687739824209}|Task_1\\Task_1.csproj|d:\\code\\vs\\c#\\practice csharp\\day_1\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDE8D45-B534-49EB-83F3-687739824209}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_9\\Program.cs",
+              "RelativeDocumentMoniker": "Task_9\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_9\\Program.cs",
+              "RelativeToolTip": "Task_9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:20:36.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_7\\Program.cs",
+              "RelativeDocumentMoniker": "Task_7\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_7\\Program.cs",
+              "RelativeToolTip": "Task_7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:15:59.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_8\\Program.cs",
+              "RelativeDocumentMoniker": "Task_8\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_8\\Program.cs",
+              "RelativeToolTip": "Task_8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:20:26.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_10\\Program.cs",
+              "RelativeDocumentMoniker": "Task_10\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_10\\Program.cs",
+              "RelativeToolTip": "Task_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:20:47.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_6\\Program.cs",
+              "RelativeDocumentMoniker": "Task_6\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_6\\Program.cs",
+              "RelativeToolTip": "Task_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:55:49.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_5\\Program.cs",
+              "RelativeDocumentMoniker": "Task_5\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_5\\Program.cs",
+              "RelativeToolTip": "Task_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:55:35.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_4\\Program.cs",
+              "RelativeDocumentMoniker": "Task_4\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_4\\Program.cs",
+              "RelativeToolTip": "Task_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:01:01.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "Task_3\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_3\\Program.cs",
+              "RelativeToolTip": "Task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:45:52.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_2\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_2\\Program.cs",
+              "RelativeToolTip": "Task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:45:41.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_1\\Program.cs",
+              "RelativeToolTip": "Task_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:30:43.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

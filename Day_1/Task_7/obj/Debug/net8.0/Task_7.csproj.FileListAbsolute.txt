@@ -1,0 +1,14 @@
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\bin\Debug\net8.0\Task_7.exe
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\bin\Debug\net8.0\Task_7.deps.json
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\bin\Debug\net8.0\Task_7.runtimeconfig.json
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\bin\Debug\net8.0\Task_7.dll
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\bin\Debug\net8.0\Task_7.pdb
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\Task_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\Task_7.AssemblyInfoInputs.cache
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\Task_7.AssemblyInfo.cs
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\Task_7.csproj.CoreCompileInputs.cache
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\Task_7.dll
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\refint\Task_7.dll
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\Task_7.pdb
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\Task_7.genruntimeconfig.cache
+D:\Code\VS\C#\Practice Csharp\Day_1\Task_7\obj\Debug\net8.0\ref\Task_7.dll
