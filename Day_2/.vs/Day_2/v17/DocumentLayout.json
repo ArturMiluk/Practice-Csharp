@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0B3174-7A53-44C7-9B7B-583967D8E4C9}|Task_10\\Task_10.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0B3174-7A53-44C7-9B7B-583967D8E4C9}|Task_10\\Task_10.csproj|solutionrelative:task_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E562F-B647-4A6A-871F-D862503FE1AE}|Task_9\\Task_9.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2E562F-B647-4A6A-871F-D862503FE1AE}|Task_9\\Task_9.csproj|solutionrelative:task_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0388A4C4-762F-40F0-8878-B23D9BB045F1}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0388A4C4-762F-40F0-8878-B23D9BB045F1}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49317F-7680-4E66-834C-80A8D2DFD150}|Task_8\\Task_8.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E49317F-7680-4E66-834C-80A8D2DFD150}|Task_8\\Task_8.csproj|solutionrelative:task_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAB4203-5F91-498D-95A6-A428C6E9AC3D}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAB4203-5F91-498D-95A6-A428C6E9AC3D}|Task_4\\Task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B47204C-ACCF-42FD-A999-73196485DB45}|Task_7\\Task_7.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B47204C-ACCF-42FD-A999-73196485DB45}|Task_7\\Task_7.csproj|solutionrelative:task_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6427B959-04B2-4E8D-BB77-2F2E41B93E49}|Task_6\\Task_6.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6427B959-04B2-4E8D-BB77-2F2E41B93E49}|Task_6\\Task_6.csproj|solutionrelative:task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEED7C1-210D-47CC-97FF-DF1F66A6CD52}|Task_5\\Task_5.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEED7C1-210D-47CC-97FF-DF1F66A6CD52}|Task_5\\Task_5.csproj|solutionrelative:task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF43958-D082-447F-B509-FAEDDDBDBC91}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF43958-D082-447F-B509-FAEDDDBDBC91}|Task_3\\Task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6D5F32-55A3-4FE4-A056-8885F6997759}|Task_2\\Task_2.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6D5F32-55A3-4FE4-A056-8885F6997759}|Task_2\\Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAB4203-5F91-498D-95A6-A428C6E9AC3D}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_2\\task_4\\task_4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DAB4203-5F91-498D-95A6-A428C6E9AC3D}|Task_4\\Task_4.csproj|solutionrelative:task_4\\task_4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_8\\Program.cs",
+              "RelativeDocumentMoniker": "Task_8\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_8\\Program.cs",
+              "RelativeToolTip": "Task_8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:30:28.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_9\\Program.cs",
+              "RelativeDocumentMoniker": "Task_9\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_9\\Program.cs",
+              "RelativeToolTip": "Task_9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:30:38.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_10\\Program.cs",
+              "RelativeDocumentMoniker": "Task_10\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_10\\Program.cs",
+              "RelativeToolTip": "Task_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:30:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_1\\Program.cs",
+              "RelativeToolTip": "Task_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:56:04.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_4\\Program.cs",
+              "RelativeDocumentMoniker": "Task_4\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_4\\Program.cs",
+              "RelativeToolTip": "Task_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:05:35.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_7\\Program.cs",
+              "RelativeDocumentMoniker": "Task_7\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_7\\Program.cs",
+              "RelativeToolTip": "Task_7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:30:18.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_5\\Program.cs",
+              "RelativeDocumentMoniker": "Task_5\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_5\\Program.cs",
+              "RelativeToolTip": "Task_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:05:46.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_6\\Program.cs",
+              "RelativeDocumentMoniker": "Task_6\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_6\\Program.cs",
+              "RelativeToolTip": "Task_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:30:07.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "Task_3\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_3\\Program.cs",
+              "RelativeToolTip": "Task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:05:24.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_2\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_2\\Program.cs",
+              "RelativeToolTip": "Task_2\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:05:13.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task_4",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_4\\Task_4.csproj",
+              "RelativeDocumentMoniker": "Task_4\\Task_4.csproj",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_2\\Task_4\\Task_4.csproj",
+              "RelativeToolTip": "Task_4\\Task_4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T08:19:22.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
