@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A10A9A-3587-4AC9-9FA4-134B89E95C95}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A10A9A-3587-4AC9-9FA4-134B89E95C95}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A10A9A-3587-4AC9-9FA4-134B89E95C95}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A10A9A-3587-4AC9-9FA4-134B89E95C95}|Task_1\\Task_1.csproj|solutionrelative:task_1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8A5F7C-A57C-4CCC-B5E8-2D2E54A49BCB}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8A5F7C-A57C-4CCC-B5E8-2D2E54A49BCB}|Task_4\\Task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8A5F7C-A57C-4CCC-B5E8-2D2E54A49BCB}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_4\\fleet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8A5F7C-A57C-4CCC-B5E8-2D2E54A49BCB}|Task_4\\Task_4.csproj|solutionrelative:task_4\\fleet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8A5F7C-A57C-4CCC-B5E8-2D2E54A49BCB}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_4\\car.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8A5F7C-A57C-4CCC-B5E8-2D2E54A49BCB}|Task_4\\Task_4.csproj|solutionrelative:task_4\\car.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8A5F7C-A57C-4CCC-B5E8-2D2E54A49BCB}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_4\\car.data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8A5F7C-A57C-4CCC-B5E8-2D2E54A49BCB}|Task_4\\Task_4.csproj|solutionrelative:task_4\\car.data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F068909-6A96-4435-9F11-7139B06F2C49}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F068909-6A96-4435-9F11-7139B06F2C49}|Task_3\\Task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F068909-6A96-4435-9F11-7139B06F2C49}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F068909-6A96-4435-9F11-7139B06F2C49}|Task_3\\Task_3.csproj|solutionrelative:task_3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F068909-6A96-4435-9F11-7139B06F2C49}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_3\\concreteemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F068909-6A96-4435-9F11-7139B06F2C49}|Task_3\\Task_3.csproj|solutionrelative:task_3\\concreteemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F068909-6A96-4435-9F11-7139B06F2C49}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_3\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F068909-6A96-4435-9F11-7139B06F2C49}|Task_3\\Task_3.csproj|solutionrelative:task_3\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41FCF13-09E4-4AFD-B3D3-1D05011F3C27}|Task_2\\Task_2.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41FCF13-09E4-4AFD-B3D3-1D05011F3C27}|Task_2\\Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41FCF13-09E4-4AFD-B3D3-1D05011F3C27}|Task_2\\Task_2.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41FCF13-09E4-4AFD-B3D3-1D05011F3C27}|Task_2\\Task_2.csproj|solutionrelative:task_2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41FCF13-09E4-4AFD-B3D3-1D05011F3C27}|Task_2\\Task_2.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_3\\task_2\\personprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41FCF13-09E4-4AFD-B3D3-1D05011F3C27}|Task_2\\Task_2.csproj|solutionrelative:task_2\\personprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.Data.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_4\\Car.Data.cs",
+              "RelativeDocumentMoniker": "Task_4\\Car.Data.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_4\\Car.Data.cs",
+              "RelativeToolTip": "Task_4\\Car.Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:20:19.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_4\\Program.cs",
+              "RelativeDocumentMoniker": "Task_4\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_4\\Program.cs",
+              "RelativeToolTip": "Task_4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:30:52.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_1\\Program.cs",
+              "RelativeToolTip": "Task_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:30:12.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_1\\Calculator.cs",
+              "RelativeDocumentMoniker": "Task_1\\Calculator.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_1\\Calculator.cs",
+              "RelativeToolTip": "Task_1\\Calculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:40:12.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.Methods.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_4\\Car.Methods.cs",
+              "RelativeDocumentMoniker": "Task_4\\Car.Methods.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_4\\Car.Methods.cs",
+              "RelativeToolTip": "Task_4\\Car.Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:20:31.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fleet.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_4\\Fleet.cs",
+              "RelativeDocumentMoniker": "Task_4\\Fleet.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_4\\Fleet.cs",
+              "RelativeToolTip": "Task_4\\Fleet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:20:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "Task_3\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_3\\Program.cs",
+              "RelativeToolTip": "Task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:30:42.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcreteEmployees.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_3\\ConcreteEmployees.cs",
+              "RelativeDocumentMoniker": "Task_3\\ConcreteEmployees.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_3\\ConcreteEmployees.cs",
+              "RelativeToolTip": "Task_3\\ConcreteEmployees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:05:19.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_3\\Employee.cs",
+              "RelativeDocumentMoniker": "Task_3\\Employee.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_3\\Employee.cs",
+              "RelativeToolTip": "Task_3\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:05:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_3\\Company.cs",
+              "RelativeDocumentMoniker": "Task_3\\Company.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_3\\Company.cs",
+              "RelativeToolTip": "Task_3\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:05:32.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonProcessor.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_2\\PersonProcessor.cs",
+              "RelativeDocumentMoniker": "Task_2\\PersonProcessor.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_2\\PersonProcessor.cs",
+              "RelativeToolTip": "Task_2\\PersonProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:55:33.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_2\\Person.cs",
+              "RelativeDocumentMoniker": "Task_2\\Person.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_2\\Person.cs",
+              "RelativeToolTip": "Task_2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:55:22.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_2\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_3\\Task_2\\Program.cs",
+              "RelativeToolTip": "Task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:30:27.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
