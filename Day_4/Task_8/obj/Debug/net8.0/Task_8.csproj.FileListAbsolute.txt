@@ -1,0 +1,14 @@
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\bin\Debug\net8.0\Task_8.exe
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\bin\Debug\net8.0\Task_8.deps.json
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\bin\Debug\net8.0\Task_8.runtimeconfig.json
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\bin\Debug\net8.0\Task_8.dll
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\bin\Debug\net8.0\Task_8.pdb
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\Task_8.AssemblyInfoInputs.cache
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\Task_8.AssemblyInfo.cs
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\Task_8.csproj.CoreCompileInputs.cache
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\Task_8.dll
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\refint\Task_8.dll
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\Task_8.pdb
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\Task_8.genruntimeconfig.cache
+D:\Code\VS\CSharp\Practice Csharp\Day_4\Task_8\obj\Debug\net8.0\ref\Task_8.dll

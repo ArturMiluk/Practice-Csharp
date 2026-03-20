@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_5\\Task_5.csproj": {}
+    "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_1\\Task_5\\Task_5.csproj": {}
   },
   "projects": {
-    "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_5\\Task_5.csproj": {
+    "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_1\\Task_5\\Task_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_5\\Task_5.csproj",
+        "projectUniqueName": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_1\\Task_5\\Task_5.csproj",
         "projectName": "Task_5",
-        "projectPath": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_5\\Task_5.csproj",
+        "projectPath": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_1\\Task_5\\Task_5.csproj",
         "packagesPath": "C:\\Users\\Asa\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\VS\\C#\\Practice Csharp\\Day_1\\Task_5\\obj\\",
+        "outputPath": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_1\\Task_5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
