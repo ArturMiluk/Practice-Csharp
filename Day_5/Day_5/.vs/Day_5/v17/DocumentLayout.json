@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|solutionrelative:task_1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|solutionrelative:task_1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|solutionrelative:task_1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7261980D-01AA-4A34-A1AE-438A777502ED}|Task_1\\Task_1.csproj|solutionrelative:task_1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D49397-BD25-4ABB-B4A3-289C038D3A94}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_4\\graphiceditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D49397-BD25-4ABB-B4A3-289C038D3A94}|Task_4\\Task_4.csproj|solutionrelative:task_4\\graphiceditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D49397-BD25-4ABB-B4A3-289C038D3A94}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_4\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D49397-BD25-4ABB-B4A3-289C038D3A94}|Task_4\\Task_4.csproj|solutionrelative:task_4\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D49397-BD25-4ABB-B4A3-289C038D3A94}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_4\\ipaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D49397-BD25-4ABB-B4A3-289C038D3A94}|Task_4\\Task_4.csproj|solutionrelative:task_4\\ipaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D49397-BD25-4ABB-B4A3-289C038D3A94}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D49397-BD25-4ABB-B4A3-289C038D3A94}|Task_4\\Task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_2\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|solutionrelative:task_2\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_2\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|solutionrelative:task_2\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_2\\drum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|solutionrelative:task_2\\drum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_2\\ipercussioninstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|solutionrelative:task_2\\ipercussioninstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_2.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_2\\istringinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B776F146-B38D-4AA3-9169-78FAF01E7394}|Task_2\\Task_3.csproj|solutionrelative:task_2\\istringinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_3\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|solutionrelative:task_3\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|solutionrelative:task_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|solutionrelative:task_3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_5\\task_3\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3BD88-AFAC-44F9-9E3F-7A8FF5391BAF}|Task_3\\Task_3.csproj|solutionrelative:task_3\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Circle.cs",
+              "RelativeDocumentMoniker": "Task_1\\Circle.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Circle.cs",
+              "RelativeToolTip": "Task_1\\Circle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T05:50:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Program.cs",
+              "RelativeToolTip": "Task_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T05:35:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task_1\\Rectangle.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Rectangle.cs",
+              "RelativeToolTip": "Task_1\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T05:50:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Shape.cs",
+              "RelativeDocumentMoniker": "Task_1\\Shape.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Shape.cs",
+              "RelativeToolTip": "Task_1\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T05:50:21.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Triangle.cs",
+              "RelativeDocumentMoniker": "Task_1\\Triangle.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_1\\Triangle.cs",
+              "RelativeToolTip": "Task_1\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T05:50:59.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphicEditor.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_4\\GraphicEditor.cs",
+              "RelativeDocumentMoniker": "Task_4\\GraphicEditor.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_4\\GraphicEditor.cs",
+              "RelativeToolTip": "Task_4\\GraphicEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:25:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDraw.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_4\\IDraw.cs",
+              "RelativeDocumentMoniker": "Task_4\\IDraw.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_4\\IDraw.cs",
+              "RelativeToolTip": "Task_4\\IDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:25:24.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaint.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_4\\IPaint.cs",
+              "RelativeDocumentMoniker": "Task_4\\IPaint.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_4\\IPaint.cs",
+              "RelativeToolTip": "Task_4\\IPaint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:25:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_4\\Program.cs",
+              "RelativeDocumentMoniker": "Task_4\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_4\\Program.cs",
+              "RelativeToolTip": "Task_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T05:40:46.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Drum.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\Drum.cs",
+              "RelativeDocumentMoniker": "Task_2\\Drum.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\Drum.cs",
+              "RelativeToolTip": "Task_2\\Drum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:05:43.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\Guitar.cs",
+              "RelativeDocumentMoniker": "Task_2\\Guitar.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\Guitar.cs",
+              "RelativeToolTip": "Task_2\\Guitar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:05:32.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instrument.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\Instrument.cs",
+              "RelativeDocumentMoniker": "Task_2\\Instrument.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\Instrument.cs",
+              "RelativeToolTip": "Task_2\\Instrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:05:20.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPercussionInstrument.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\IPercussionInstrument.cs",
+              "RelativeDocumentMoniker": "Task_2\\IPercussionInstrument.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\IPercussionInstrument.cs",
+              "RelativeToolTip": "Task_2\\IPercussionInstrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:05:11.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_2\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\Program.cs",
+              "RelativeToolTip": "Task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T05:35:47.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStringInstrument.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\IStringInstrument.cs",
+              "RelativeDocumentMoniker": "Task_2\\IStringInstrument.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_2\\IStringInstrument.cs",
+              "RelativeToolTip": "Task_2\\IStringInstrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:05:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\Professor.cs",
+              "RelativeDocumentMoniker": "Task_3\\Professor.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\Professor.cs",
+              "RelativeToolTip": "Task_3\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:00:03.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\Department.cs",
+              "RelativeDocumentMoniker": "Task_3\\Department.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\Department.cs",
+              "RelativeToolTip": "Task_3\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:00:20.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "Task_3\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\Program.cs",
+              "RelativeToolTip": "Task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T05:40:32.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\Student.cs",
+              "RelativeDocumentMoniker": "Task_3\\Student.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\Student.cs",
+              "RelativeToolTip": "Task_3\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:00:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "University.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\University.cs",
+              "RelativeDocumentMoniker": "Task_3\\University.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_5\\Task_3\\University.cs",
+              "RelativeToolTip": "Task_3\\University.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T06:00:29.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
