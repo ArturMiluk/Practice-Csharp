@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB7553-033A-4E15-93B1-B7F9E4320D59}|Task_2\\Task_2.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BB7553-033A-4E15-93B1-B7F9E4320D59}|Task_2\\Task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB7553-033A-4E15-93B1-B7F9E4320D59}|Task_2\\Task_2.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_2\\numberfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BB7553-033A-4E15-93B1-B7F9E4320D59}|Task_2\\Task_2.csproj|solutionrelative:task_2\\numberfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB7553-033A-4E15-93B1-B7F9E4320D59}|Task_2\\Task_2.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_2\\numbercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BB7553-033A-4E15-93B1-B7F9E4320D59}|Task_2\\Task_2.csproj|solutionrelative:task_2\\numbercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33E88C-B7B5-41C9-ACBA-2B46E9F590F8}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33E88C-B7B5-41C9-ACBA-2B46E9F590F8}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33E88C-B7B5-41C9-ACBA-2B46E9F590F8}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_1\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33E88C-B7B5-41C9-ACBA-2B46E9F590F8}|Task_1\\Task_1.csproj|solutionrelative:task_1\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33E88C-B7B5-41C9-ACBA-2B46E9F590F8}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_1\\notificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33E88C-B7B5-41C9-ACBA-2B46E9F590F8}|Task_1\\Task_1.csproj|solutionrelative:task_1\\notificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33E88C-B7B5-41C9-ACBA-2B46E9F590F8}|Task_1\\Task_1.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_1\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33E88C-B7B5-41C9-ACBA-2B46E9F590F8}|Task_1\\Task_1.csproj|solutionrelative:task_1\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_4\\stockmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|solutionrelative:task_4\\stockmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_4\\stockpriceeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|solutionrelative:task_4\\stockpriceeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_4\\newspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|solutionrelative:task_4\\newspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_4\\marketobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|solutionrelative:task_4\\marketobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_4\\investor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DC99A2-10B3-4A1B-9FED-5D9B005085CD}|Task_4\\Task_4.csproj|solutionrelative:task_4\\investor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_3\\warningsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|solutionrelative:task_3\\warningsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_3\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|solutionrelative:task_3\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_3\\temperaturehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|solutionrelative:task_3\\temperaturehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|d:\\code\\vs\\csharp\\practice csharp\\day_6\\task_3\\coolingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAAD6E9-EDE0-45C7-BEBA-B4232313F20E}|Task_3\\Task_3.csproj|solutionrelative:task_3\\coolingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_1\\Program.cs",
+              "RelativeToolTip": "Task_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:55:35.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberCheck.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_2\\NumberCheck.cs",
+              "RelativeDocumentMoniker": "Task_2\\NumberCheck.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_2\\NumberCheck.cs",
+              "RelativeToolTip": "Task_2\\NumberCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:15:03.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberFilters.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_2\\NumberFilters.cs",
+              "RelativeDocumentMoniker": "Task_2\\NumberFilters.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_2\\NumberFilters.cs",
+              "RelativeToolTip": "Task_2\\NumberFilters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:15:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task_2\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_2\\Program.cs",
+              "RelativeToolTip": "Task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:10:57.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmsNotifier.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_1\\SmsNotifier.cs",
+              "RelativeDocumentMoniker": "Task_1\\SmsNotifier.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_1\\SmsNotifier.cs",
+              "RelativeToolTip": "Task_1\\SmsNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:10:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationHandler.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_1\\NotificationHandler.cs",
+              "RelativeDocumentMoniker": "Task_1\\NotificationHandler.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_1\\NotificationHandler.cs",
+              "RelativeToolTip": "Task_1\\NotificationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:10:13.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_1\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "Task_1\\EmailNotifier.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_1\\EmailNotifier.cs",
+              "RelativeToolTip": "Task_1\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:10:23.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockMarket.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\StockMarket.cs",
+              "RelativeDocumentMoniker": "Task_4\\StockMarket.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\StockMarket.cs",
+              "RelativeToolTip": "Task_4\\StockMarket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:35:22.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockPriceEventArgs.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\StockPriceEventArgs.cs",
+              "RelativeDocumentMoniker": "Task_4\\StockPriceEventArgs.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\StockPriceEventArgs.cs",
+              "RelativeToolTip": "Task_4\\StockPriceEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:35:14.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewsPublisher.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\NewsPublisher.cs",
+              "RelativeDocumentMoniker": "Task_4\\NewsPublisher.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\NewsPublisher.cs",
+              "RelativeToolTip": "Task_4\\NewsPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:35:38.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\Program.cs",
+              "RelativeDocumentMoniker": "Task_4\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\Program.cs",
+              "RelativeToolTip": "Task_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:15:46.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MarketObserver.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\MarketObserver.cs",
+              "RelativeDocumentMoniker": "Task_4\\MarketObserver.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\MarketObserver.cs",
+              "RelativeToolTip": "Task_4\\MarketObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:35:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Investor.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\Investor.cs",
+              "RelativeDocumentMoniker": "Task_4\\Investor.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_4\\Investor.cs",
+              "RelativeToolTip": "Task_4\\Investor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:35:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WarningSystem.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\WarningSystem.cs",
+              "RelativeDocumentMoniker": "Task_3\\WarningSystem.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\WarningSystem.cs",
+              "RelativeToolTip": "Task_3\\WarningSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:25:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "Task_3\\TemperatureSensor.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\TemperatureSensor.cs",
+              "RelativeToolTip": "Task_3\\TemperatureSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:25:12.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "Task_3\\Program.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\Program.cs",
+              "RelativeToolTip": "Task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:15:26.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TemperatureHandler.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\TemperatureHandler.cs",
+              "RelativeDocumentMoniker": "Task_3\\TemperatureHandler.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\TemperatureHandler.cs",
+              "RelativeToolTip": "Task_3\\TemperatureHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:25:04.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoolingSystem.cs",
+              "DocumentMoniker": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\CoolingSystem.cs",
+              "RelativeDocumentMoniker": "Task_3\\CoolingSystem.cs",
+              "ToolTip": "D:\\Code\\VS\\CSharp\\Practice Csharp\\Day_6\\Task_3\\CoolingSystem.cs",
+              "RelativeToolTip": "Task_3\\CoolingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:25:22.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
