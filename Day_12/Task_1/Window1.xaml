@@ -1,0 +1,53 @@
+﻿<Window x:Class="StudentDiary.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Электронный дневник"
+        Height="450"
+        Width="800">
+
+    <Grid Margin="10">
+        <TabControl>
+
+            <TabItem Header="Расписание">
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                        <TextBlock Text="Фильтр по дате:" VerticalAlignment="Center"/>
+                        <DatePicker x:Name="dateFilterPicker" Margin="10,0"/>
+                        <Button Content="Применить"
+                                Click="OnFilterClick"/>
+                    </StackPanel>
+
+                    <DataGrid x:Name="scheduleGrid"
+                              Grid.Row="1"
+                              AutoGenerateColumns="False">
+
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Предмет"
+                                                Binding="{Binding Subject}"/>
+                            <DataGridTextColumn Header="Дата"
+                                                Binding="{Binding Date}"/>
+                            <DataGridTextColumn Header="Оценка"
+                                                Binding="{Binding Grade}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Button Grid.Row="2"
+                            Content="Добавить оценку"
+                            Margin="0,10,0,0"
+                            HorizontalAlignment="Right"
+                            Width="150"
+                            Click="OnAddGradeClick"/>
+
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>
